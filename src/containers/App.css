@@ -1,0 +1,13 @@
+
+
+@font-face {
+    font-family: 'Khalifah Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Khalifah Regular'), url('Khalifah.woff') format('woff');
+    }
+
+    h1{
+    	font-family: 'Khalifah Regular';
+    	font-size: 47px;
+    }
