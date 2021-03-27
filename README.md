@@ -1,1 +1,2 @@
 # RoboApp
+permalink: /index.html
