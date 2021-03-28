@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/RoboYaar/static/css/main.4fa83c5c.chunk.css",
+    "main.js": "/RoboYaar/static/js/main.c249c831.chunk.js",
+    "main.js.map": "/RoboYaar/static/js/main.c249c831.chunk.js.map",
+    "runtime-main.js": "/RoboYaar/static/js/runtime-main.f77c8f64.js",
+    "runtime-main.js.map": "/RoboYaar/static/js/runtime-main.f77c8f64.js.map",
+    "static/css/2.fe359a49.chunk.css": "/RoboYaar/static/css/2.fe359a49.chunk.css",
+    "static/js/2.864c58e4.chunk.js": "/RoboYaar/static/js/2.864c58e4.chunk.js",
+    "static/js/2.864c58e4.chunk.js.map": "/RoboYaar/static/js/2.864c58e4.chunk.js.map",
+    "static/js/3.19c31eb2.chunk.js": "/RoboYaar/static/js/3.19c31eb2.chunk.js",
+    "static/js/3.19c31eb2.chunk.js.map": "/RoboYaar/static/js/3.19c31eb2.chunk.js.map",
+    "index.html": "/RoboYaar/index.html",
+    "static/css/2.fe359a49.chunk.css.map": "/RoboYaar/static/css/2.fe359a49.chunk.css.map",
+    "static/css/main.4fa83c5c.chunk.css.map": "/RoboYaar/static/css/main.4fa83c5c.chunk.css.map",
+    "static/js/2.864c58e4.chunk.js.LICENSE.txt": "/RoboYaar/static/js/2.864c58e4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/RoboYaar/static/media/Khalifah.7fe8b3a3.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f77c8f64.js",
+    "static/css/2.fe359a49.chunk.css",
+    "static/js/2.864c58e4.chunk.js",
+    "static/css/main.4fa83c5c.chunk.css",
+    "static/js/main.c249c831.chunk.js"
+  ]
+}
